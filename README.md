@@ -10,3 +10,5 @@
 
 1-6 <br/> 참조형 데이터 obj의 property x와 array에 3과 3, 4, 5 할당
 
+1-7 <br/> 변수 a에 10 할당 <br/> 변수 a를 b에 복사 <br/> obj1 할당 후 obj2 복사
+
