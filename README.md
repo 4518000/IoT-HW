@@ -41,4 +41,4 @@
 
 1-21 <br/> arr1과 arr2 선언 후 각각에 [undefined, 1], [empty, 1] 할당 <br/> arr1.forEach로 undefined 0, 1 1 출력, arr2.forEach로 1 1 출력 <br/> arr1.map으로 새로운 배열 [NaN(undefined+0), 2(1+1)] 생성, arr2.map으로는 [empty, 2(1+1)] 생성 <br/> arr1.filter로 [undefined] 생성, arr2.filter로 [] 생성 <br/> reduce로 string 합치기를 통해 각각 undefined011 (p=undefined0, c=1, i=1)와 11 (c-1, i=1) 출력
 
-1-22 <br/> 
+1-22 <br/> null과 object는 모두 값이 없음을 나타내기 때문에 == 연산자를 사용하면 같다고 나옴 <br/> 하지만 그 둘은 data type이 다르기 때문에 더 엄격한 === 연산자를 사용하여 비교하면 다르다고 나옴
