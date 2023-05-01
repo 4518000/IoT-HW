@@ -35,3 +35,5 @@
 
 1-18 <br/> JSON 문법으로 표현된 문자열로 전환했다가 다시 JSON 객체로 바꾸는 깊은 복사
 
+1-19 <br/> 값을 대입하지 않은 변수 a를 찍으면 undefined 출력 <br/> a만을 property로 가지는 obj의 존재하지 않는 property b를 찍으면 ReferenceError 출력 <br/> 반환 값이 없는 함수 c를 찍으면 undefined 출력
+
