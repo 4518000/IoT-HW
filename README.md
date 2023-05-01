@@ -37,3 +37,5 @@
 
 1-19 <br/> 값을 대입하지 않은 변수 a를 찍으면 undefined 출력 <br/> a만을 property로 가지는 obj의 존재하지 않는 property b를 찍으면 ReferenceError 출력 <br/> 반환 값이 없는 함수 c를 찍으면 undefined 출력
 
+1-20 <br/> 크기 3의 빈 arr1를 선언하고 찍어보면 빈 배열 출력 <br/> 크기가 3인 배열 arr2를 생성하여 찍어보면 역시 빈 배열를 출력 <br/> undefined로 채운 배열을 선언한 뒤 찍어보면 [undefined, undefined, undefined] 출력 (사용하지 말것)
+
