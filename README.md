@@ -29,3 +29,7 @@
 
 1-15 <br/> user의 properties를 user2로 복사하고 user의 urls도 따로 복사 <br/> 원하던대로 제대로 변경된 모습
 
+1-16 <br/> 깊은 복사 (Deep copy)
+
+1-17 <br/> 깊은 복사를 통해 obj2의 properties를 변경 <br/> 그 중에는 b와 같이 c, d를 포함하는 property도 있음
+
