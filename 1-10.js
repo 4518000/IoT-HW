@@ -2,7 +2,7 @@ var user = {
     name: 'Jaenam',
     gender: 'male',
   };
-  console.log(user.name);
+  //console.log(user.name);
   var changeName = function(user, newName) {
     var newUser = user;
     newUser.name = newName;
