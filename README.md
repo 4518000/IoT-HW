@@ -24,7 +24,8 @@
 
 1-13 <br/> 1-12의 함수를 사용하여 user의 정보를 user2에 복사하고 <br/> user2의 name property를 Jung으로 변경
 
-1-14 <br/> user의 properties를 copyObject 함수를 통해 user2에 복사한 뒤 <br/> user2의 이름을 Jung으로 변경 <br>
-property의 url은 그대로고 이름만 변경됨 (Shallow copy)
+1-14 <br/> user의 properties를 copyObject 함수를 통해 user2에 복사한 뒤 <br/> user2의 이름을 Jung으로 변경하고 urls의 portfolio를 변경 <br>
+이름은 변경되었고 porfolio도 변경되었으나 서로 같음 (Shallow copy)
 
-1-15 <br/> 
+1-15 <br/> user의 properties를 user2로 복사하고 user의 urls도 따로 복사 <br/> 원하던대로 제대로 변경된 모습
+
