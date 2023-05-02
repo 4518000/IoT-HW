@@ -55,4 +55,6 @@
 
 2-06 <br/> 2-05와 같이 function b를 출력하고 bbb, bbb가 출력됨
 
-2-07 <br/> 
+2-07 <br/> 똑같이 function b를 출력, bbb, bbb 출력
+
+2-08 <br/> 
