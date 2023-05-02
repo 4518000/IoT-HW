@@ -61,4 +61,6 @@
 
 2-09 <br/> 함수 선언문과 함수 표현식 중 함수 표현식을 사용해야 함
 
-2-10 <br/> 
+2-10 <br/> multiply 함수는 hoisting 되지 않아서 console.log(multiply(3,4));에서 에러 발생
+
+2-11 <br/> 
