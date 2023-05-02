@@ -53,3 +53,6 @@
 
 2-05 <br/> function b() {}가 마지막에 hoisting 되어서 첫 console.log(b)는 function b()를 출력 <br/> 이후 b에 'bbb'가 할당되어 bbb, bbb 출력
 
+2-06 <br/> 2-05와 같이 function b를 출력하고 bbb, bbb가 출력됨
+
+2-07 <br/> 
