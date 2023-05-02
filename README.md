@@ -43,4 +43,8 @@
 
 1-22 <br/> null과 object는 모두 값이 없음을 나타내기 때문에 == 연산자를 사용하면 같다고 나옴 <br/> 하지만 그 둘은 data type이 다르기 때문에 더 엄격한 === 연산자를 사용하여 비교하면 다르다고 나옴
 
-2-01 <br/> 
+2-01 <br/> hoisting으로 var a만 선언된 상태라서 undefined가 나옴 <br/> call stack에 쌓인 global, outer, inner context에 따라 1, 1을 출력
+
+2-02 <br/> console.log(1);에서 1을 출력, line 4도 마찬가지 <br/> x에 2가 할당되어 console.log(2);에서 2를 출력
+
+2-03 <br/>
