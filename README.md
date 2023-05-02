@@ -51,4 +51,5 @@
 
 2-04 <br/> 1, 1, 2를 출력
 
-2-05 <br/> 
+2-05 <br/> function b() {}가 마지막에 hoisting 되어서 첫 console.log(b)는 function b()를 출력 <br/> 이후 b에 'bbb'가 할당되어 bbb, bbb 출력
+
