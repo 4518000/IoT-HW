@@ -1,5 +1,4 @@
-function a(x) {
-  // 수집 대상 1(매개변수)
+function a(x) { // 수집 대상 1(매개변수)
   console.log(x); // (1)
   var x; // 수집 대상 2(변수 선언)
   console.log(x); // (2)
