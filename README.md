@@ -63,4 +63,6 @@
 
 2-10 <br/> multiply 함수는 hoisting 되지 않아서 console.log(multiply(3,4));에서 에러 발생
 
-2-11 <br/> 
+2-11 <br/> line 9의 sum이 마지막으로 hoisting 되어서 해당 함수의 결과가 나타남
+
+2-12 <br/> 
