@@ -73,4 +73,4 @@
 
 2-15 <br/> 2 출력 후 inner 함수 출력
 
-2-16 <br/> 
+2-16 <br/> 코드의 breakpoint에 debugger 삽입
