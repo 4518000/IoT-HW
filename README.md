@@ -69,4 +69,4 @@
 
 2-13 <br/> hoisting에서 선언만 해놓은 a는 undefined를 출력 <br/> 1, 1을 차례로 출력
 
-2-14 <br/> 
+2-14 <br/> global context에서 var a, var outer를 hoisting <br/> outer context에서 var b, var inner를 hoisting <br/> console.dir(inner);으로 f() { console.dir(inner);} 출력
