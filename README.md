@@ -115,4 +115,6 @@
 
 3-18 <br/> nodeList는 array-like, nodeArr에는 array <br/> foreach는 for loop와 비슷하게 function을 반복하여 call
 
-3-19 <br/> 
+3-19 <br/> string type은 immutable(read only)라서 push 불가 <br/> line 16의 map 함수는 모든 array인자 뒤에 !가 추가되고 string에서 array로 만들어짐 <br/> line 21의 reduce 함수는 return 값이 string이면 string 출력
+
+3-20 <br/> 
