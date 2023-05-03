@@ -79,4 +79,6 @@
 
 3-02 <br/> 3-01에서 언급했듯 Node.js 환경에서는 line 3이 true
 
-3-03 <br/> 
+3-03 <br/> 자바스크립트의 모든 변수는 특정 객체의 property로 동작 <br/> 전역공간에서 선언한 var a는 window와 this에서 모두 1을 출력
+
+3-04 <br/> 
