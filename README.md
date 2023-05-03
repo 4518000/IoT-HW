@@ -75,6 +75,8 @@
 
 2-16 <br/> 코드의 breakpoint에 debugger 삽입
 ---
-3-01 <br/> global scope에서 this는 window를 가리킴
+3-01 <br/> 전역공간에서 this는 전역 객체를 가리키는데 <br/> 브라우저 환경에서는 window, Node.js 환경에서는 global이 전역객체임
 
-3-02 <br/>
+3-02 <br/> 3-01에서 언급했듯 Node.js 환경에서는 line 3이 true
+
+3-03 <br/> 
