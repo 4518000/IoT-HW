@@ -101,4 +101,6 @@
 
 3-11 <br/> 화살표 함수를 사용할 때 this가 포함되면 scope chain을 따라 this를 찾음
 
-3-12 <br/> 
+3-12 <br/> 다른 함수에 argument로 전달해주는 함수는 callback 함수
+
+3-13 <br/> 
