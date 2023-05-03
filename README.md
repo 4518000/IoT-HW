@@ -119,8 +119,10 @@
 
 3-20 <br/> array-like obj를 Array.from 하면 array로 바뀜
 
-3-21 <br/> new로 생성
+3-21 <br/> this가 만들어지고 Person의 this로 활용 후 name과 gender를 copy하고 school(company) 만듦
 
 3-22 <br/> forEach로 array의 값들을 대입하여 max와 min을 결정
 
-3-23 <br/> 
+3-23 <br/> Math.max와 Math.min 사용 가능 <br/> Math.max를 this로 만들어서 apply 적용 (this를 Null로 적음)
+
+3-24 <br/> 
