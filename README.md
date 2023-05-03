@@ -97,4 +97,6 @@
 
 3-09 <br/> line 15의 this는 obj1 <br/> innerFunc()는 전역함수로 호출 <br/> obj2.innerMethod()의 this는 obj2
 
-3-10 <br/> 
+3-10 <br/> obj.outer()의 this는 obj <br/> innerFunc1()의 this는 global <br/> innerFunc2의 this는 obj <br/> 변수에 this를 할당시키면 다른 this 값 사용 가능
+
+3-11 <br/> 
