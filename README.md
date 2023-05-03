@@ -93,4 +93,5 @@
 
 3-07 <br/> method로서 호출하는 방법에는 .표기법과 [''] 표기법이 있음
 
-3-08 <br/> 
+3-08 <br/> line 11, 12에서의 this는 obj <br/> line 14~17에서의 this는 obj.inner
+
