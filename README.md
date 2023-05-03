@@ -137,4 +137,6 @@
 
 3-29 <br/> scope chain을 따라 this를 찾음
 
-3-30 <br/> 
+3-30 <br/> line 15에서 입력받은 add 함수의 60, 85, 95를 더하여 sum에 할당 <br/> count에는 개수 할당 <br/> average 함수는 sum을 count로 나눔
+
+3-31 <br/> 
