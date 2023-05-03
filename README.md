@@ -127,6 +127,8 @@
 
 3-24 <br/> spreading operator ...를 사용하면 array를 인자로 펼침
 
-3-25 <br/> func.bind를 사용하면 this {x:1} 뒤에 오는 숫자 배열이 인자로 들어감
+3-25 <br/> bind를 사용하면 func 함수의 this {x:1} 뒤에 오는 숫자 배열이 순서대로 인자로 들어감
 
-3-26 <br/> 
+3-26 <br/> func.name을 찍으면 func를 출력 <br/> bindFunc.name을 찍으면 bound func를 출력
+
+3-27 <br/> 
