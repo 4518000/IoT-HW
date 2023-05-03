@@ -125,4 +125,6 @@
 
 3-23 <br/> Math.max와 Math.min 사용 가능 <br/> Math.max를 this로 만들어서 apply 적용 (this를 Null로 적음)
 
-3-24 <br/> 
+3-24 <br/> spreading operator ...를 사용하면 array를 인자로 펼침
+
+3-25 <br/> 
