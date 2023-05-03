@@ -120,3 +120,7 @@
 3-20 <br/> array-like obj를 Array.from 하면 array로 바뀜
 
 3-21 <br/> new로 생성
+
+3-22 <br/> forEach로 array의 값들을 대입하여 max와 min을 결정
+
+3-23 <br/> 
