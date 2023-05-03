@@ -117,4 +117,6 @@
 
 3-19 <br/> string type은 immutable(read only)라서 push 불가 <br/> line 16의 map 함수는 모든 array인자 뒤에 !가 추가되고 string에서 array로 만들어짐 <br/> line 21의 reduce 함수는 return 값이 string이면 string 출력
 
-3-20 <br/> 
+3-20 <br/> array-like obj를 Array.from 하면 array로 바뀜
+
+3-21 <br/> 
