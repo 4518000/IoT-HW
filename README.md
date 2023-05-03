@@ -111,6 +111,8 @@
 
 3-16 <br/> call과 달리 apply는 2번째 인자를 array형태로 줘야함
 
-3-17 <br/> array-like object에서 array instance만 사용할 수 있는 array.prototype의 push 함수 <br/> line 7은 push의 this를 obj로 지정, 3 : 'd'를 추가, length를 4로 변경하라는 의미 <br/> slice 함수는 array로 복제
+3-17 <br/> array-like object에서 array instance만 사용할 수 있는 array.prototype의 push 함수 <br/> line 7은 push의 this를 obj로 지정, 3 : 'd'를 추가, length를 4로 변경하라는 의미 <br/> slice 함수는 array-like나 array를 복제하여 array로 나타냄
 
-3-18 <br/> 
+3-18 <br/> nodeList는 array-like, nodeArr에는 array <br/> foreach는 for loop와 비슷하게 function을 반복하여 call
+
+3-19 <br/> 
