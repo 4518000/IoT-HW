@@ -131,6 +131,10 @@
 
 3-26 <br/> func.name을 찍으면 func를 출력 <br/> bindFunc.name을 찍으면 bound func를 출력
 
-3-27 <br/> 
+3-27 <br/> 잘 이해되지 않습니다.
 
-3-28 <br/> 
+3-28 <br/> 잘 이해되지 않습니다.
+
+3-29 <br/> scope chain을 따라 this를 찾음
+
+3-30 <br/> 
