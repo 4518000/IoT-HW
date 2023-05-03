@@ -89,3 +89,6 @@
 
 3-05 <br/> 전역 객체의 property로 할당하면 delete 되지만 전역 변수로 선언한 경우는 delete 되지 않음
 
+3-06 <br/> var func는 함수로 호출되어 this는 전역을 가리키므로 window <br/> obj.method(2)는 obj가 호출했기 때문에 method 출력
+
+3-07 <br/> 
