@@ -95,3 +95,6 @@
 
 3-08 <br/> line 11, 12에서의 this는 obj <br/> line 14~17에서의 this는 obj.inner
 
+3-09 <br/> line 15의 this는 obj1 <br/> innerFunc()는 전역함수로 호출 <br/> obj2.innerMethod()의 this는 obj2
+
+3-10 <br/> 
