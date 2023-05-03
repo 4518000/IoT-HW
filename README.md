@@ -99,4 +99,6 @@
 
 3-10 <br/> obj.outer()의 this는 obj <br/> innerFunc1()의 this는 global <br/> innerFunc2의 this는 obj <br/> 변수에 this를 할당시키면 다른 this 값 사용 가능
 
-3-11 <br/> 
+3-11 <br/> 화살표 함수를 사용할 때 this가 포함되면 scope chain을 따라 this를 찾음
+
+3-12 <br/> 
