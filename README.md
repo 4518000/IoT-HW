@@ -103,4 +103,6 @@
 
 3-12 <br/> 다른 함수에 argument로 전달해주는 함수는 callback 함수
 
-3-13 <br/> 
+3-13 <br/> 변수 choco에 new로 name에 초코, age에 7이 들어감 <br/> 변수 nabi의 name에 나비, age에 5가 들어감
+
+3-14 <br/> 
