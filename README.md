@@ -119,4 +119,4 @@
 
 3-20 <br/> array-like obj를 Array.from 하면 array로 바뀜
 
-3-21 <br/> 
+3-21 <br/> new로 생성
