@@ -2,7 +2,7 @@
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=83
-    0387
+    //0387
     "version": "0.2.0",
     "configurations": [
     {
@@ -12,7 +12,7 @@
     "skipFiles": [
     "<node_internals>/**"
     ],
-    "type": "pwa-node"
+    "type": "node"
     },
     {
     "type": "chrome",

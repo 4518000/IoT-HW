@@ -105,4 +105,8 @@
 
 3-13 <br/> 변수 choco에 new로 name에 초코, age에 7이 들어감 <br/> 변수 nabi의 name에 나비, age에 5가 들어감
 
-3-14 <br/> 
+3-14 <br/> func의 {x:1}을 this로, 4, 5, 6을 argument로 사용
+
+3-15 <br/> {a:4}가 this
+
+3-16 <br/> 
