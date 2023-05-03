@@ -132,3 +132,5 @@
 3-26 <br/> func.name을 찍으면 func를 출력 <br/> bindFunc.name을 찍으면 bound func를 출력
 
 3-27 <br/> 
+
+3-28 <br/> 
