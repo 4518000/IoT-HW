@@ -147,4 +147,6 @@
 
 4-02 <br/> 4-01과 같지만 콜백 함수를 setInterval의 인자로 전달
 
-4-03 <br/> 
+4-03 <br/> map 메서드가 호출되어 newArr의 인자와 인덱스를 출력 <br/> 각 currnetValue에 5를 더한 뒤 newArr를 출력
+
+4-04 <br/> 
