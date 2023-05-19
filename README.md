@@ -149,4 +149,6 @@
 
 4-03 <br/> map 메서드가 호출되어 newArr의 인자와 인덱스를 출력 <br/> 각 currnetValue에 5를 더한 뒤 newArr를 출력
 
-4-04 <br/> 
+4-04 <br/> map 메서드의 콜백 함수에서 첫 번째 매개변수는 currentValue이어야 함 <br/> 매개변수 순서가 잘못되어 newArr2로 index에 5를 더한 [5, 6, 7] 출력
+
+4-05 <br/> 
