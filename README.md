@@ -151,4 +151,6 @@
 
 4-04 <br/> map 메서드의 콜백 함수에서 첫 번째 매개변수는 currentValue이어야 함 <br/> 매개변수 순서가 잘못되어 newArr2로 index에 5를 더한 [5, 6, 7] 출력
 
-4-05 <br/> 
+4-05 <br/> Array.prototype.map에 익명함수를 할당하여 map 메서드 정의 <br/> 초기화된 mappedArr에 콜백함수의 반환값 mappedValue를 할당
+
+4-06 <br/> 
