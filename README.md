@@ -153,4 +153,6 @@
 
 4-05 <br/> Array.prototype.map에 익명함수를 할당하여 map 메서드 정의 <br/> 초기화된 mappedArr에 콜백함수의 반환값 mappedValue를 할당
 
-4-06 <br/> 
+4-06 <br/> 지정된 시간 후 콜백함수 실행 <br/> 배열 각 요소에 대해 콜백함수 실행 <br/> 버튼 클릭 시 실행
+
+4-07 <br/> 
