@@ -165,4 +165,6 @@
 
 4-11 <br/> obj1.func.bind(obj1)은 1초 후에 실행 <br/> obj1이 1초 후 출력되고 1.5초 후에 obj2가 출력
 
-4-12 <br/> 
+4-12 <br/> setTimeout을 중첩하여 실행한 뒤, coffeeList 변수로 커피리스트 누적하여 출력
+
+4-13 <br/> 
