@@ -173,4 +173,6 @@
 
 4-15 <br/> line 5에서 newName는 prevName이 없으면 name을, 있으면 prevName + ', ' + name을 할당
 
-4-16 <br/> 
+4-16 <br/> yield 키워드를 사용하여 coffeeGenerator 함수를 제어함 <br/> addCoffee 함수 내부에서 Promise 객체를 사용한 뒤 resolve 함수를 호출하여 결과 전달
+
+4-17 <br/> 
