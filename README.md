@@ -157,3 +157,6 @@
 
 4-07 <br/> obj.logvalues를 메서드로 호출하면 this가 obj 객체를 참조 <br/> forEach 메서드를 콜백함수로 사용하면 this가 전역 객체 window를 참조
 
+4-08 <br/> obj1.func()는 obj1의 func 실행 <br/> 1초 뒤에 콜백이 실행되며 obj1 출력
+
+4-09 <br/> 
