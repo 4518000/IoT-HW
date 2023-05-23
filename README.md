@@ -167,8 +167,10 @@
 
 4-12 <br/> setTimeout을 중첩하여 실행한 뒤, coffeeList 변수로 커피리스트 누적하여 출력
 
-4-13 <br/> coffeeList를 0.5초 간격으로 순차적으로 추가한 뒤 출력
+4-13 <br/> coffeeList를 0.5초 간격으로 순차적으로 추가한 뒤 출력 <br/> 출력은 4-12와 같음
 
-4-14 <br/> then 메서드는 이전 단계의 Promise가 이행될 때 다음 단계의 콜백함수에 인자를 전달 <br/> resolve는 Promise의 상태를 변경하고 설정
+4-14 <br/> then 메서드는 이전 단계의 Promise가 이행될 때 다음 단계의 콜백함수에 인자를 전달 <br/> resolve는 Promise의 상태를 변경하고 설정 <br/> 출력은 4-12와 같음
 
-4-15 <br/> 
+4-15 <br/> line 5에서 newName는 prevName이 없으면 name을, 있으면 prevName + ', ' + name을 할당
+
+4-16 <br/> 
