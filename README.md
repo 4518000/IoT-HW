@@ -163,4 +163,6 @@
 
 4-10 <br/> obj2.func()에서 obj2 객체의 func 메서드가 실행되고 obj1.name을 출력
 
-4-11 <br/> 
+4-11 <br/> obj1.func.bind(obj1)은 1초 후에 실행 <br/> obj1이 1초 후 출력되고 1.5초 후에 obj2가 출력
+
+4-12 <br/> 
