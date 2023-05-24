@@ -195,3 +195,6 @@
 
 5-08 <br/> alertFruit 함수에 fruit 인자를 전달하기 위해 bind 함수를 사용 <br/> alertFruit.bind(null, fruit)은 alertFruit 함수에 null을 this로 설정하고 fruit 값을 첫 번째 인자로 전달하는 새로운 함수 생성
 
+5-09 <br/> alertFruitBuilder 함수로 클로저를 생성하는 방식
+
+5-10 <br/> 
