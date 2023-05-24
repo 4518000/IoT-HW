@@ -197,4 +197,6 @@
 
 5-09 <br/> alertFruitBuilder 함수로 클로저를 생성하는 방식
 
-5-10 <br/> 
+5-10 <br/> car.run();을 추가하여 실행 <br/> fuel은 10에서 20 사이 값, power는 2에서 5 사이의 값, moved은 초기값 0, run은 1에서 6 사이의 값을 생성
+
+5-11 <br/> 
