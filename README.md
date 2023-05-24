@@ -189,6 +189,8 @@
 
 5-05 <br/> 첫번째 함수는 outer의 inner 함수 참조를 끊음 <br/> 두번째 함수는 a가 10보다 커졌을 때 inner를 null로 설정하여 함수의 참조를 끊음 <br/> 세번째 함수는 이벤트 리스너를 등록하고 count가 10보다 커지면 이벤트 리스너를 제거하고 clickHandler의 참조를 null로 설정하여 참조를 끊음
 
-5-06 <br/> 과일의 list를 생성하고 선택한 과일을 알림창으로 표시 <br/> 동적으로 HTML 요소를 생성하는 방법을 보여줌\
+5-06 <br/> 과일의 list를 생성하고 선택한 과일을 알림창으로 표시 <br/> 동적으로 HTML 요소를 생성하는 방법을 보여줌
 
-5-07 <br/> 
+5-07 <br/> 맨처음에 alertFruit(fruits[1])에 의해 your choice is banana라는 알림창이 뜸 <br/> 과일을 선택하면 your choice is [object PointerEvent]라는 알림창이 뜸
+
+5-08 <br/> 
