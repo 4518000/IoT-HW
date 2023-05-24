@@ -176,3 +176,9 @@
 4-16 <br/> yield 키워드를 사용하여 coffeeGenerator 함수를 제어함 <br/> addCoffee 함수 내부에서 Promise 객체를 사용한 뒤 resolve 함수를 호출하여 결과 전달
 
 4-17 <br/> async 키워드로 정의된 coffeeMaker 함수에서 _addCoffee를 정의 <br/> async 키워드로 정의된 _addCoffee 함수는 addCoffee를 호출하고, await 키워드를 통해 return 값을 coffeeList에 추가
+
+
+---
+5-01 <br/> outer 함수에서 변수 a에 1 할당, inner 함수 정의 <br/> inner 함수는 scope chain을 따라 a를 참조하고 outer를 호출하면 2를 출력
+
+5-02 <br/> 
