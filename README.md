@@ -181,4 +181,6 @@
 ---
 5-01 <br/> outer 함수에서 변수 a에 1 할당, inner 함수 정의 <br/> inner 함수는 scope chain을 따라 a를 참조하고 outer를 호출하면 2를 출력
 
-5-02 <br/> 
+5-02 <br/> outer2에는 outer 함수의 반환 값인 2가 할당됨
+
+5-03 <br/> 
