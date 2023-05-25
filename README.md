@@ -211,4 +211,6 @@
 
 5-16 <br/> mousemovedhk mousewheel 이벤트에 디바운스 기능을 적용
 
-5-17 <br/> 
+5-17 <br/> curry3은 Math.max(10, b)를 실행하여 큰값을 출력 <br/> Math.min은 작은 값을 출력
+
+5-18 <br/> 
