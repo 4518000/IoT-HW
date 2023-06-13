@@ -221,4 +221,6 @@
 
 6-02 <br/> console.dir(instance)를 통해 instance 객체의 정보를 출력
 
-6-03 <br/> 
+6-03 <br/> Array의 프로토타입 객체 Array.prototype의 constructor 속성, arr 객체의 __proto__속성의 constructor 속성, arr 객체의 constructor 속성을 확인
+
+6-04 <br/> 
