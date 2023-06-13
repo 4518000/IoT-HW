@@ -223,4 +223,6 @@
 
 6-03 <br/> Array의 프로토타입 객체 Array.prototype의 constructor 속성, arr 객체의 __proto__속성의 constructor 속성, arr 객체의 constructor 속성을 확인
 
-6-04 <br/> 
+6-04 <br/> dataTypes 배열 생성 후 해당 객체가 NewConstructor 생성자 함수로부터 생성되었는지 확인 <br/> d instanceof는 모두 false
+
+6-05 <br/> 
