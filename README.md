@@ -233,4 +233,6 @@
 
 6-08 <br/> toString이 arr을 Array의 인스턴스로 취급하여 1,2 반환 <br/> arr를 Object의 인스턴스로 취급하여 [[Class]] 값을 문자열로 반환하기 때문에 [object Array] 반환
 
-6-09 <br/> 
+6-09 <br/> Object.prototype.getEntries라는 메서드를 Object 프로토타입에 추가
+
+6-10 <br/> 
