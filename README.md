@@ -235,4 +235,8 @@
 
 6-09 <br/> Object.prototype.getEntries라는 메서드를 Object 프로토타입에 추가
 
-6-10 <br/> 
+6-10 <br/> Grade 생성자 함수는 전달 받은 인자를 배열로 저장한 뒤 인덱스 속성으로 설정 <br/> g 객체는 Grade { 0: 100, 1: 80, length: 2}
+
+
+---
+7-01 <br/> 
