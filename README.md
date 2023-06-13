@@ -218,3 +218,7 @@
 
 ---
 6-01 <br/> Person 생성자 함수로 객체 생성 후 getName 메서드로 _name 값을 얻음
+
+6-02 <br/> console.dir(instance)를 통해 instance 객체의 정보를 출력
+
+6-03 <br/> 
