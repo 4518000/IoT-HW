@@ -225,4 +225,6 @@
 
 6-04 <br/> dataTypes 배열 생성 후 해당 객체가 NewConstructor 생성자 함수로부터 생성되었는지 확인 <br/> d instanceof는 모두 false
 
-6-05 <br/> 
+6-05 <br/> 객체들이 Person 생성자 함수로부터 생성되었는지 확인 <br/> 모두 Person 생성자 함수로 부터 생성되었기 때문에 각 객체와 true를 반환
+
+6-06 <br/> 
