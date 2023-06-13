@@ -231,4 +231,6 @@
 
 6-07 <br/> push를 통해 arr를 [1,2,3]으로 만듦 <br/> 배열의 요소로 2를 포함하고 있기 때문에 arr.hasOwnProperty(2)는 true
 
-6-08 <br/> 
+6-08 <br/> toString이 arr을 Array의 인스턴스로 취급하여 1,2 반환 <br/> arr를 Object의 인스턴스로 취급하여 [[Class]] 값을 문자열로 반환하기 때문에 [object Array] 반환
+
+6-09 <br/> 
