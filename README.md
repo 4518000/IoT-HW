@@ -214,3 +214,7 @@
 5-17 <br/> curry3은 Math.max(10, b)를 실행하여 큰값을 출력 <br/> Math.min은 작은 값을 출력
 
 5-18 <br/> 가독성이 떨어지는 커링함수의 예시 <br/> curry5는 a, b, c, d, e 값을 비교하여 가장 큰 값을 출력
+
+
+---
+6-01 <br/> Person 생성자 함수로 객체 생성 후 getName 메서드로 _name 값을 얻음

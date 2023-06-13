@@ -7,7 +7,7 @@
     "configurations": [
     {
     "name": "바닐라 JS 디버그 Program",
-    "program": "${workspaceFolder}/5-18.js",
+    "program": "${workspaceFolder}/6-01.js",
     "request": "launch",
     "skipFiles": [
     "<node_internals>/**"
