@@ -229,4 +229,6 @@
 
 6-06 <br/> Person 생성자 함수를 통해 iu 객체 생성 <br/> '바로' + getName 함수의 출력값 '바로 지금'을 출력
 
-6-07 <br/> 
+6-07 <br/> push를 통해 arr를 [1,2,3]으로 만듦 <br/> 배열의 요소로 2를 포함하고 있기 때문에 arr.hasOwnProperty(2)는 true
+
+6-08 <br/> 
