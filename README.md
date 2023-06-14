@@ -239,4 +239,6 @@
 
 
 ---
-7-01 <br/> 
+7-01 <br/> getArea 메서드로 rectangle의 넓이를 반환 <br/> isRectangle 메서드로 폭과 높이가 양수인지 검사 후 true/false 반환 <br/> console.log(rect1.isRectangle(rect1))이 에러가 나오는 이유는 isRectangle 메서드가 Rectangle 생성자의 정적 메서드로 정의되어 있기 때문
+
+7-02 <br/> 
