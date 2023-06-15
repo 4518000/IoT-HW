@@ -263,4 +263,6 @@
 
 7-12 <br/> Bridge 함수를 사용하여 정확한 프로토타입 체인 설정
 
-7-13 <br/> 
+7-13 <br/> Object.create를 사용하여 SuperClass를 상속받는 SubClass 생성
+
+7-14 <br/> 
