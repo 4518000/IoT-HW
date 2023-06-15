@@ -265,4 +265,6 @@
 
 7-13 <br/> Object.create를 사용하여 SuperClass를 상속받는 SubClass 생성
 
-7-14 <br/> 
+7-14 <br/> Square 클래스가 Rectangle 클래스를 상속받고 상위 클래스의 메소드를 호출
+
+7-15 <br/> 
