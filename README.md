@@ -251,4 +251,6 @@
 
 7-06 <br/> Square에서 height를 width로 받는 것 제외하고 7-05와 동일
 
-7-07 <br/> 
+7-07 <br/> Square의 인스턴스는 Rectangle의 속성을 상속받음
+
+7-08 <br/> 
