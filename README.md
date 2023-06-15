@@ -269,4 +269,4 @@
 
 7-15 <br/> 생성자 함수 ES5에 정적 메소드와 인스턴스 메소드 추가 <br/> 클래스 ES6에서는 constructor 메소드로 생성자 정의 후 정적 메소드와 인스턴스 메소드 정의
 
-7-16 <br/> 
+7-16 <br/> Square 클래스는 Rectangle 클래스를 상속받음 <br/> square은 getArea를 통해 size is : 넓이 를 반환
