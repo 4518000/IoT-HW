@@ -261,4 +261,6 @@
 
 7-11 <br/> 프로토타입 체인 설정을 통해 SuperClass를 기반으로 SubClass를 확장하고 subMethods 포함
 
-7-12 <br/> 
+7-12 <br/> Bridge 함수를 사용하여 정확한 프로토타입 체인 설정
+
+7-13 <br/> 
